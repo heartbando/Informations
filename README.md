@@ -7,6 +7,8 @@
     <title>Website ni Heart</title>
 </head>
 <body>
+    <h3> Cutie </h3>
+    <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/1412bdea-6834-4e34-8c4a-3d735c562036" /><br>
     <form>
         <fieldset style="width:250px;">
             <legend>Informations</legend>
