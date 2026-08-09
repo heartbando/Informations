@@ -19,7 +19,7 @@
             <label for="male">Cute</label><br>
             <input type="radio" id="Not cute" name="select">
             <label for="female">Not cute</label><br>
-            <label>WWhat do you think of her cuteness?</label><br>
+            <label>What do you think of her cuteness?</label><br>
             <textarea name="" rows="3" cols="30"></textarea><br>
             <input type="Reset" value="Reset">
             <input type="Submit" value="submit">
