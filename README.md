@@ -7,8 +7,6 @@
     <title>Website ni Heart</title>
 </head>
 <body>
-    <h3>Cutie</h3
-    <img src="heart-img.jpg.jfif" alt="Cutie" width="250">
     <form>
         <fieldset style="width:250px;">
             <legend>Informations</legend>
