@@ -11,7 +11,7 @@
     <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/1412bdea-6834-4e34-8c4a-3d735c562036" /><br>
     <form>
         <fieldset style="width:250px;">
-            <legend>Informations</legend>
+            <legend>This is heart</legend>
             <label for="fname">Is she cute?</label><input type="text" id="fname" name=""> <br>
             <label for="lname">Weh?</label><input type="text" id="name" name=""> <br>
             <label> Heart: </label><br>
