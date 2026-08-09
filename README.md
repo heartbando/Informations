@@ -9,6 +9,11 @@
 <body>
     <h3> Cutie </h3>
     <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/1412bdea-6834-4e34-8c4a-3d735c562036" /><br>
+    <form action="https://formspree.io" method="POST">
+  <p>What can you say about her cuteness?</p>
+  <input type="text" name="cuteness_feedback" placeholder="Your answer here..." required>
+  <button type="submit">Submit Answer</button>
+</form>
     <form>
         <fieldset style="width:400px;">
             <legend>This is heart</legend>
