@@ -7,7 +7,6 @@
     <title>Website ni Heart</title>
 </head>
 <body>
-    <a href="your-new-file.html">Click here to see my new page</a>
     <form>
         <fieldset style="width:250px;">
             <legend>Informations</legend>
