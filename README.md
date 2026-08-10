@@ -14,12 +14,10 @@
     <legend>This is heart</legend>
     <p>
       <label>Is she cute?</label> 
-      <input type="text" name="is_she_cute"> 
-      </p>
-      <p>
+      <input type="text" name="is_she_cute"> <br>
       <label>Weh?</label>
-      </p>
       <input type="text" name="weh">
+    </p>
     <p>Heart:</p>
       <input type="radio" id="cute" name="heart_choice" value="Cute">
       <label for="cute">Cute</label>
