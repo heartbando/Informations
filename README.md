@@ -19,12 +19,13 @@
       <input type="text" name="weh">
     </p>
       
-     <label> Heart: </label>
+     
+Heart:
       <input type="radio" id="cute" name="heart_choice" value="Cute">
       <label for="cute">Cute</label>
 
       <input type="radio" id="not_cute" name="heart_choice" value="Not cute">
-      <label for="not_cute">Not cute</label>
+      <label for="not_cute">Not cute</label><br>
 
     <p>
       <label>What do you think of her cuteness?</label><br>
