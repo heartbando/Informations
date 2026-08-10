@@ -18,7 +18,8 @@
       <label>Weh?</label>
       <input type="text" name="weh">
     </p>
-     <label> Heart: </label><br>
+      
+     <label> Heart: </label>
       <input type="radio" id="cute" name="heart_choice" value="Cute">
       <label for="cute">Cute</label>
 
