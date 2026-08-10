@@ -25,7 +25,6 @@
 
       <input type="radio" id="not_cute" name="heart_choice" value="Not cute">
       <label for="not_cute">Not cute</label>
-    </p>
 
     <p>
       <label>What do you think of her cuteness?</label><br>
