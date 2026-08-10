@@ -16,8 +16,9 @@
       <label>Is she cute?</label> 
       <input type="text" name="is_she_cute"> 
       </p>
-
+      <p>
       <label>Weh?</label>
+      </p>
       <input type="text" name="weh">
     <p>Heart:</p>
       <input type="radio" id="cute" name="heart_choice" value="Cute">
