@@ -20,7 +20,7 @@
     </p>
       
      
-Heart:
+Heart: <br>
       <input type="radio" id="cute" name="heart_choice" value="Cute">
       <label for="cute">Cute</label>
 
@@ -31,6 +31,11 @@ Heart:
       <label>What do you think of her cuteness?</label><br>
       <textarea name="cuteness_thoughts" rows="5" cols="35"></textarea>
     </p>
+
+    <p>
+ <label>Who iz u bbg?</label> 
+      <input type="text" name="who_iz_u_bbg?">
+      <br>
 
     <p>
       <button type="reset">Reset</button>
